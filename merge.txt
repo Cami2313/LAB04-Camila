@@ -1,0 +1,4 @@
+Registro de merge
+Rama fusionada: feature/Question-5 -> feature/LAB04-01
+Fecha: 22/03/2024
+Mensaje del commit: "feature(common): added question-5"
