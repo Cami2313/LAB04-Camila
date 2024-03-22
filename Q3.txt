@@ -1,0 +1,15 @@
+1. ¿Cómo es que se instalan paquetes con yarn?
+R. Utilizando el siguiente comando:
+    yarn add <packageName> --> yarn add react
+
+2. ¿Cómo es que se borran paquetes con yarn?
+R. Utilizando el siguiente comando:
+    yarn remove <packageName> --> yarn remove react
+
+3. ¿Hay algún equivalente en yarn que haga lo mismo que npm init?
+R. Si, se utiliza el comando --> yarn init
+   Este comando lo guía a través de una sesión interactiva para crear un archivo package.json.
+   Algunos valores predeterminados, como la licencia y la versión inicial, similar a lo que
+   hicimos con npm init.
+
+<< Los imagenes de las pruebas con estos comandos se encuentran en el pdf. >>
